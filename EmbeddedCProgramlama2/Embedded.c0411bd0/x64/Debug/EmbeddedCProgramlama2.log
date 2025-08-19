@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: unresolved external symbol printf referenced in function main
+main.obj : error LNK2019: unresolved external symbol scanf referenced in function main
+C:\Users\Msi\Belgeler\Softito\EmbeddedCProgramlama2\x64\Debug\EmbeddedCProgramlama2.exe : fatal error LNK1120: 2 unresolved externals

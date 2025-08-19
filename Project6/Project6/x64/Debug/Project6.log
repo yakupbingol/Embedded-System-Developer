@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\Msi\Belgeler\Softito\Project6\main.c(40,1): error C4700: uninitialized local variable 'temp' used

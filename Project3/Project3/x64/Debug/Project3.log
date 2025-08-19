@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Msi\Belgeler\Softito\Project3\main.c(6,3): warning C4013: 'printf' undefined; assuming extern returning int
+  Project3.vcxproj -> C:\Users\Msi\Belgeler\Softito\Project3\x64\Debug\Project3.exe
